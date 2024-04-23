@@ -8,6 +8,7 @@ public class ResumeAnalysisApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ResumeAnalysisApplication.class, args);
+		System.out.println("Resume Analysis Project Started...");
 	}
 
 }
